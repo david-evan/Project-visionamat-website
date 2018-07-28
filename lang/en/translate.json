@@ -1,0 +1,64 @@
+{
+	"index_title": "Visionama't - Wildlife and landscape photographe",
+	"index_meta_description": "Visionamat. Wildlife and landscape photographie by Sarah Rouiller-Martin",
+	"index_description_title":"Index - Visionamat, Wildlife Photographer",
+	
+	"gallery_title": "Galleries - Visionama't",
+	"gallery_meta_description": "My galleries, my artworks, my passion",
+	"gallery_description_title":"Galleries - Galleries by Visionamat",
+	"gallery_h1_title": "Galleries",
+	"gallery_p_subtitle":"Relax yourself, take a deep breath … and stop the time a moment by travelling through my world ...",
+	"gallery_link_index": "Home",
+	"gallery_link_self": "Galleries",
+	"gallery_download":"Download in HD",
+
+	"portfolio_title" : "Portfolio - Best photos - Visionama't",
+	"portfolio_meta_description" :"See the world through my eyes with my best photos",
+	"portfolio_description_title":"Portfolio - Best photographies by Visionamat",
+	
+	"aboutme_title": "About me - Visionama't",
+	"aboutme_meta_description": "Discover my world and who I am !",
+	"aboutme_description_title":"About me - Who is Visionamat",
+	"aboutme_link_index": "Home",
+	"aboutme_link_self": "About me !",
+	"aboutme_head_quote": "The hardest thing in photography is to create a simple image",
+	"aboutme_whoiam":"Me and my universe", 
+	"aboutme_gallery_name":"Gallery", 
+	"aboutme_discover_work" : "My universe", 
+	"aboutme_work_first_pic_title" : "Terrifying vulture",
+	"aboutme_work_second_pic_title" : "Lovers ...",
+	"aboutme_work_third_pic_title" : "Lemur from Madagascar",
+	"aboutme_more_work" : "More photos ?",
+	"aboutme_footer_quote":"It is an illusion that photos are made with the camera… they are made with the eye, heart and head.",
+	
+	"contact_title": "Contact - Visionama't",
+	"contact_meta_description": "Contact me by email or using the contact form on the side",
+	"contact_description_title":"Contact - Contact Visionamat",
+	"contact_h1_title": "Contact me !",
+	"contact_p_subtitle":"You like what you see ? You have any questions or comments ? Want to collaborate to achieve a project ? Contact me by email or fill the contact form on the side.",
+	"contact_link_index": "Home",
+	"contact_link_self": "Contact",
+	
+	"contact_sendmessage_h2": "Send a message", 
+	"contact_inforequired":"All fields are mandatory.",
+	"contact_form_name":"Your name", 
+	"contact_form_email":"Your email",
+	"contact_form_subject":"Subject",	
+	"contact_form_message":"Your message ...",
+	"contact_send_button":"SEND",
+	
+	"footer_gallery_title":"Somes photos ...",
+	
+	"legals_title": "Legal notice - Visionama't",
+	"legals_description_title":" Legals - Legals Notice and Copyright for Visionamat",
+	"legals_meta_description": "Legal notice for Visionamat web site",
+	"legals_link_index": "Home",
+	"legals_link_self": "Legal notice",
+	
+	"header_home":"Home",
+	"header_gallery":"Galleries",
+	"header_aboutme":"About me !",
+	
+	"copyright_button":"No reproduction permitted (Click to view copyright details)",
+	"keywords":"Visionamat, Sarah Rouiller-Martin, wildlife photographer"
+}

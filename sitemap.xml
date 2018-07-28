@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  		xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://www.visionamat.com/</loc>
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="en"
+	   href="http://en.visionamat.com/"
+	   />
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="fr"
+	   href="http://fr.visionamat.com/"
+	   />
+    <priority>1.00</priority>
+  </url>
+    <url>
+    <loc>http://www.visionamat.com/index.html</loc>
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="en"
+	   href="http://en.visionamat.com/index.html"
+	   />
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="fr"
+	   href="http://fr.visionamat.com/index.html"
+	   />
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.visionamat.com/portfolio.html</loc>
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="en"
+	   href="http://en.visionamat.com/portfolio.html"
+	   />
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="fr"
+	   href="http://fr.visionamat.com/portfolio.html"
+	   />
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.visionamat.com/gallery.html</loc>
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="en"
+	   href="http://en.visionamat.com/gallery.html"
+	   />
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="fr"
+	   href="http://fr.visionamat.com/gallery.html"
+	   />
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/divers/2700.jpg</image:loc>
+	  <image:caption>Les imposantes statues de la place du Trocadéro</image:caption>
+	  <image:geo_location>Paris, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/divers/3200.jpg</image:loc>
+	  <image:caption>Vers l'infini et au delà</image:caption>
+	  <image:geo_location>Paris, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/divers/6600.jpg</image:loc>
+	  <image:caption>Un petit bouddha caché dans les branchages</image:caption>
+	  <image:geo_location>Pairi Daiza - Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/divers/3100.jpg</image:loc>
+	  <image:caption>Les nuages se dessinent dans "la Géode"</image:caption>
+	  <image:geo_location>Paris, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/divers/5000.jpg</image:loc>
+	  <image:caption>Le dragon de l'unité</image:caption>
+	  <image:geo_location>Pairi Daiza - Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/divers/900.jpg</image:loc>
+	  <image:caption>Jet d'eau d'une fontaine dans la lumière du soleil ...</image:caption>
+	  <image:geo_location>Grand-Place de Lille, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/divers/5800.jpg</image:loc>
+	  <image:caption>La nature dans toute sa splendeur</image:caption>
+	  <image:geo_location>Pairi Daiza - Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/divers/1000.jpg</image:loc>
+	  <image:caption>Les flammes d'un feu dévorent plusieurs bûches ...</image:caption>
+	  <image:geo_location>Armentières, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/paysages/700.jpg</image:loc>
+	  <image:caption>Un superbe couché du soleil</image:caption>
+	  <image:geo_location>Cottesloe beach, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/paysages/1600.jpg</image:loc>
+	  <image:caption>L'homme face à l'immensité de la nature</image:caption>
+	  <image:geo_location>Cottesloe beach, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/paysages/3900.jpg</image:loc>
+	  <image:caption>Les forces de la nature</image:caption>
+	  <image:geo_location>Cascade du Rouget, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/paysages/7000.jpg</image:loc>
+	  <image:caption>L'immensité prend ici tout son sens ...</image:caption>
+	  <image:geo_location>Massif du Mont-Blanc, France </image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/paysages/7100.jpg</image:loc>
+	  <image:caption>La rencontre de la France et de l'Italie ...</image:caption>
+	  <image:geo_location>Massif du Mont-Blanc, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/paysages/6900.jpg</image:loc>
+	  <image:caption>"La Vallée Blanche"</image:caption>
+	  <image:geo_location>Massif du Mont-Blanc, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/paysages/600.jpg</image:loc>
+	  <image:caption>Les derniers rayons de soleil percent les nuages ...</image:caption>
+	  <image:geo_location>Cottesloe beach - Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/paysages/1200.jpg</image:loc>
+	  <image:caption>Couché de soleil au dessus des montagnes</image:caption>
+	  <image:geo_location>Samoëns - France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/400.jpg</image:loc>
+	  <image:caption>Un compagnon très joueur !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/1700.jpg</image:loc>
+	  <image:caption>Un très étrange Tiliqua à langue bleue</image:caption>
+	  <image:geo_location>Kalamunda National Park, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4000.jpg</image:loc>
+	  <image:caption>Probablement l'un des animaux les plus mignons</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/3600.jpg</image:loc>
+	  <image:caption>Une maman lémurien et son petit ...</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/3400.jpg</image:loc>
+	  <image:caption>Maman veille sur moi ...</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/3500.jpg</image:loc>
+	  <image:caption>Prêt à partir à l'aventure !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/6100.jpg</image:loc>
+	  <image:caption>De superbes couleurs</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/5900.jpg</image:loc>
+	  <image:caption>Terrifiant ...</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/6800.jpg</image:loc>
+	  <image:caption>Je suis le roi !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/6200.jpg</image:loc>
+	  <image:caption>Un pélican à la lumière du soleil</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4800.jpg</image:loc>
+	  <image:caption>Léon !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/5400.jpg</image:loc>
+	  <image:caption>Un éléphant d'asie</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/500.jpg</image:loc>
+	  <image:caption>Un magnifique plumage en devenir ! </image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/5700.jpg</image:loc>
+	  <image:caption>Le regard du penseur</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/5100.jpg</image:loc>
+	  <image:caption>I am sexy and I know it !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/6000.jpg</image:loc>
+	  <image:caption>Trois amis au bord de l'eau</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/6500.jpg</image:loc>
+	  <image:caption>Après l'effort ...</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/5300.jpg</image:loc>
+	  <image:caption>Un rhinocéros d'afrique</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/5200.jpg</image:loc>
+	  <image:caption>Look at me, I'm fabulous</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/2400.jpg</image:loc>
+	  <image:caption>La pause s'impose !</image:caption>
+	  <image:geo_location>Whiteman Park, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/3700.jpg</image:loc>
+	  <image:caption>Les premières acrobatie d'un jeune lémurien</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4100.jpg</image:loc>
+	  <image:caption>Une véritable boule de poils !</image:caption>
+	  <image:geo_location>Zoo Parc de  Beauval, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4500.jpg</image:loc>
+	  <image:caption>Deux filles dans le vent !</image:caption>
+	  <image:geo_location>Zoo Parc de  Beauval, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/200.jpg</image:loc>
+	  <image:caption>Un paradis perdu au fond de l'océan ...</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/2500.jpg</image:loc>
+	  <image:caption>Je crois que je viens de trouver le grand-père de Némo !</image:caption>
+	  <image:geo_location>Nausicaà, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/3300.jpg</image:loc>
+	  <image:caption>Eye of the tiger !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4700.jpg</image:loc>
+	  <image:caption>Un petit koala d'australie</image:caption>
+	  <image:geo_location>Zoo Parc de  Beauval, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4200.jpg</image:loc>
+	  <image:caption>Un gros nounours !</image:caption>
+	  <image:geo_location>Zoo Parc de  Beauval, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/1800.jpg</image:loc>
+	  <image:caption>Un bain de soleil</image:caption>
+	  <image:geo_location>Perth, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/6300.jpg</image:loc>
+	  <image:caption>M. Meu</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/5500.jpg</image:loc>
+	  <image:caption>Timon !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/2600.jpg</image:loc>
+	  <image:caption>Prendre un bain de soleil au bord de l'eau !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4900.jpg</image:loc>
+	  <image:caption>Un regard perçant</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/100.jpg</image:loc>
+	  <image:caption>Skippy ! </image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/300.jpg</image:loc>
+	  <image:caption>Un couple de péruches amoureuses</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4600.jpg</image:loc>
+	  <image:caption>Une élégante dame à l'arrivé de l'automne</image:caption>
+	  <image:geo_location>Zoo Parc de  Beauval, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/6400.jpg</image:loc>
+	  <image:caption>Un petit curieux !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/5600.jpg</image:loc>
+	  <image:caption>Les délices d'une giraffe</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/6700.jpg</image:loc>
+	  <image:caption>À table !</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4300.jpg</image:loc>
+	  <image:caption>Un visage presque humain</image:caption>
+	  <image:geo_location>Zoo Parc de  Beauval, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/3800.jpg</image:loc>
+	  <image:caption>Prêt à faire la course ?</image:caption>
+	  <image:geo_location>Pairi Daiza, Belgique</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/800.jpg</image:loc>
+	  <image:caption>Une majestueuse cigogne</image:caption>
+	  <image:geo_location>Château-Thierry, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/animaux/4400.jpg</image:loc>
+	  <image:caption>Le guetteur de l'eau</image:caption>
+	  <image:geo_location>Zoo Parc de  Beauval, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/2100.jpg</image:loc>
+	  <image:caption>La ville en lumière</image:caption>
+	  <image:geo_location>Perth, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/1100.jpg</image:loc>
+	  <image:caption>Le pont de Rotterdam</image:caption>
+	  <image:geo_location>Rotterdam, Netherlands</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/2800.jpg</image:loc>
+	  <image:caption>Douceur printanière ...</image:caption>
+	  <image:geo_location>Paris, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/2900.jpg</image:loc>
+	  <image:caption>La "Dame de Fer"</image:caption>
+	  <image:geo_location>Paris, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/2300.jpg</image:loc>
+	  <image:caption>Couché de soleil par dessus la "Swan River"</image:caption>
+	  <image:geo_location>Perth, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/3000.jpg</image:loc>
+	  <image:caption>La tour effeil dans les nuages</image:caption>
+	  <image:geo_location>Paris, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/1900.jpg</image:loc>
+	  <image:caption>La cité de Perth au petit matin</image:caption>
+	  <image:geo_location>Perth, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/2200.jpg</image:loc>
+	  <image:caption>Refléxion sur l'eau ...</image:caption>
+	  <image:geo_location>Perth, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/2000.jpg</image:loc>
+	  <image:caption>Perth à la nuit tombé</image:caption>
+	  <image:geo_location>Perth, Australia (WA)</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/1400.jpg</image:loc>
+	  <image:caption>Vestiges du XIIème siècle</image:caption>
+	  <image:geo_location>Lavardin, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+	<image:image>
+	  <image:loc>http://www.visionamat.com/media/photos/galleries/architecture/1300.jpg</image:loc>
+	  <image:caption>Un imposant donjon</image:caption>
+	  <image:geo_location>Lavardin, France</image:geo_location>
+	  <image:license>http://www.visionamat.com/legals.html#copyright</image:license>
+	</image:image>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.visionamat.com/about-me.html</loc>
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="en"
+	   href="http://en.visionamat.com/about-me.html"
+	   />
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="fr"
+	   href="http://fr.visionamat.com/about-me.html"
+	   />
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.visionamat.com/contact.html</loc>
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="en"
+	   href="http://en.visionamat.com/contact.html"
+	   />
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="fr"
+	   href="http://fr.visionamat.com/contact.html"
+	   />
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.visionamat.com/legals.html</loc>
+	    <xhtml:link 
+	   rel="alternate"
+	   hreflang="en"
+	   href="http://en.visionamat.com/legals.html"
+	   />
+    <xhtml:link 
+	   rel="alternate"
+	   hreflang="fr"
+	   href="http://fr.visionamat.com/legals.html"
+	   />
+    <priority>0.70</priority>
+  </url>
+</urlset>

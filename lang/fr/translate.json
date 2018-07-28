@@ -1,0 +1,66 @@
+{
+	"index_title": "Visionama't - Photographie animalière et paysages",
+	"index_meta_description": "Visionamat - Sarah ROUILLER-MARTIN Reporter, Photographe Animalier",
+	"index_description_title":"Accueil - Visionamat, Photographe Animalier",
+	
+	"gallery_title": "Les galeries photos - Visionama't",
+	"gallery_meta_description": "Mes galeries photos, mes oeuvres, ma passion",
+	"gallery_description_title":"Galerie - Toutes les photos de Visionamat",
+	"gallery_h1_title": "Mes galeries photos",
+	"gallery_p_subtitle":"Installez-vous confortablement dans votre fauteuil, respirez lentement … et prenez un moment pour voyager au travers de mon univers ...",
+	"gallery_link_index": "Accueil",
+	"gallery_link_self": "Les galeries photos",
+	"gallery_download":"Télécharger en Full HD",
+	
+	"portfolio_title" : "Portfolio - Mes créations - Visionama't",
+	"portfolio_meta_description" :"Regardez le monde à travers mes yeux en parcourant mes plus belles créations !",
+	"portfolio_description_title":"Portfolio - Meilleures créations photographiques de Visionamat",
+	
+	"aboutme_title": "À propos de moi - Visionama't",
+	"aboutme_meta_description": "Venez découvrir qui je suis et mon travail à travers une brève présentation",
+	"aboutme_description_title":"À Propos - Qui est Visionamat ?",
+	"aboutme_link_index": "Accueil",
+	"aboutme_link_self": "À propos",
+	"aboutme_head_quote": "Le plus difficile dans la photographie est de rester simple",
+	"aboutme_whoiam":"Qui suis-je ?", 
+	"aboutme_gallery_name":"Mini-Galerie", 
+	"aboutme_discover_work" : "Découvrez Mon travail", 
+	"aboutme_work_first_pic_title" : "Vautour Charognard",
+	"aboutme_work_second_pic_title" : "Perruches amoureuses ...",
+	"aboutme_work_third_pic_title" : "Lémurien de madagascar",
+	"aboutme_more_work" : "D'autres photos",
+	"aboutme_footer_quote":"Le temps court et s'écoule et, notre mort seule arrive à le rattraper. La photographie est un couperet qui, dans l'éternité, saisit l'instant qui l'a éblouie.",
+	
+	"contact_title": "Contactez-moi - Visionama't",
+	"contact_meta_description": "Contactez-moi directement par e-mail ou à l'aide du formulaire web",
+	"contact_description_title":"Contact - Contacter Visionamat",
+	"contact_h1_title": "Contactez moi !",
+	"contact_p_subtitle":"Passionné de photographie ? Besoin d'infos sur l'une de mes créations ? Envie de collaborer ensemble ? Ne perdez pas une minute, contactez-moi ! ",
+	"contact_link_index": "Accueil",
+	"contact_link_self": "Contact",
+	
+	"contact_sendmessage_h2": "Envoi d'un message", 
+	"contact_inforequired":"Tous les champs sont obligatoires.",
+	"contact_form_name":"Votre nom", 
+	"contact_form_email":"Votre E-mail",
+	"contact_form_subject":"Sujet",	
+	"contact_form_message":"Votre message ...",
+	"contact_send_button":"ENVOYER",
+	
+	"footer_gallery_title":"Quelques photos ...",
+	
+	
+	"legals_title": "Mentions légales - Visionama't",
+	"legals_meta_description": "Mentions légales du site web Visionamat",
+	"legals_link_index": "Accueil",
+	"legals_link_self": "Mentions légales",
+	"legals_description_title":" Mentions légales - Mentions légales et copyright de Visionamat",
+	
+	"header_home":"Accueil",
+	"header_gallery":"Galeries photos",
+	"header_aboutme":"À propos de moi !",
+	
+	"copyright_button":"Aucune reproduction autorisée (Cliquez pour plus d'infos)",
+	"keywords":"Visionamat, Sarah Rouiller-Martin, Photographe Animalier"
+	
+}
