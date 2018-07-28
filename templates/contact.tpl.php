@@ -12,17 +12,17 @@
         </div>
         <!--All Content Start-->
         <div class="wrapper boxstyle">
-        	
+
             <!--Page Header Start-->
             <section class="page-header">
             	<h1><?php echo $Translation->{'contact_h1_title'} ?></h1>
                 <p><?php echo $Translation->{'contact_p_subtitle'} ?></p>
             </section>
             <!--Page Header End-->
-            
+
             <!--Map and Details-->
             <section class="box-container">
-            	
+
                 <!--Page Navigation-->
                 <nav class="pagenav">
                 	<ul>
@@ -30,15 +30,15 @@
                         <li><?php echo $Translation->{'contact_link_self'} ?></li>
                     </ul>
                 </nav>
-                
+
                 <!--Map-->
                 <div class="map-container">
-                    <div id="map-canvas"></div>
+                      <iframe width="914px" height="400px" frameBorder="0" src="https://umap.openstreetmap.fr/fr/map/visonamat_237067?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&datalayers=603117#16/47.58580/1.33584"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/visonamat_237067">Voir en plein écran</a></p>
                 </div>
-                
+
                 <!--Contact Area-->
                 <div class="contact-area">
-                
+
                 	<!--Send Message Start-->
                 	<div class="send-message">
                     	<h2><?php echo $Translation->{'contact_sendmessage_h2'} ?></h2>
@@ -59,30 +59,30 @@
                         </div>
                     </div>
                     <!--Send Message End-->
-                    
+
                     <!--Contact Info Start-->
                     <div class="contact-info">
-					<?php include('./lang/'.LANGUAGE.'/contact_content.html')?> 
-                    </div> 
+					<?php include('./lang/'.LANGUAGE.'/contact_content.html')?>
+                    </div>
                     <!--Contact Info End-->
-                    
+
                 </div>
                 <!--Content Area End-->
-                
+
             </section>
             <!--Map and Details End-->
 
         </div>
         <!--All Content End-->
-           
+
         <!--Footer Start-->
         <footer>
             <!--Footer Bottom-->
            <?php include (INC_FOOTER); ?>
-            
+
         </footer>
         <!--Footer End-->
-    
+
 	</div>
 
 <?php include (INC_JSCRIPT); ?>
